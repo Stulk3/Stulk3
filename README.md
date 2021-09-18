@@ -1,5 +1,5 @@
 # 👋 Welcome!👋
-## 🕹 My name is Ivan, I'm game developer 🕹
+## 🕹 My name is Johan, I'm game developer 🕹
 
 
 
